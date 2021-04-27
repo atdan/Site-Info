@@ -19,7 +19,7 @@
     "node-fetch": "^2.6.0",
     "nodemon": "^2.0.4",
     "page-metadata-parser": "^1.1.4",
-    "redis": "^3.0.2"
+    "redis": "^3.1.1"
   },
   "devDependencies": {
     "jest": "^26.1.0"
